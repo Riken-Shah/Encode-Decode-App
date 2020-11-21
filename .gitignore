@@ -1,0 +1,5 @@
+.Python
+Procfile
+mysite/.env
+*.idea/**
+*/__pycache__/**
